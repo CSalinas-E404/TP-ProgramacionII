@@ -1,3 +1,5 @@
-Para instalar los paquetes necesarios, ejecutar:
+Proyecto integrador Programacion II
 
-pip install -r .\requirements.txt
+Integrantes del grupo:
+Marco Krivocapich
+Cristian Salinas
